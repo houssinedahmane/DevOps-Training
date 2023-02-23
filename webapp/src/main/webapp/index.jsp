@@ -1,9 +1,11 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <p> developped by Houssine DAHMANE.</p>
+    <p> developped by Houssine DAHMANE. 2023</p>
     <hr>
-     
+    <h2> Please fill out this forms </h2
+
+    >
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
@@ -27,10 +29,7 @@
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-
+  
 
   
 </form>
